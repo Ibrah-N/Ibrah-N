@@ -1,13 +1,34 @@
-- 👋 Hi, I’m @Ibrah-N
-- 👀 I’m interested in Machine Learning, Computer vision and Natural Language Processing.
-- 🌱 I have completed many different courses of machine learning now enrolled for computer vision at neuraLearn.ai and Standford University.
-- 💞️ I’m looking to collaborate on Machine learning advance as well basic and especially on  computer vision task.
-- 📫 If anyone wants to contact me, he/she can reach me by my email (ibrahimibraheducation@gmail.com), or whatsapp.
+<div align="center">
+👋 Hi, I'm Ibrahim
+🚀 AI | Machine Learning | Computer Vision | NLP
+💡 Passionate about AI & Deep Learning | 📚 Continuous Learner | 🤖 Open-Source Contributor
+
+</div>
+
+🛠 About Me
+🎯 AI Enthusiast specializing in Machine Learning, Computer Vision, and Natural Language Processing.
+📚 Currently expanding my knowledge through NeuraLearn.ai & Stanford University programs.
+🏆 Strong expertise in Deep Learning, Transfer Learning, Transformers, and Attention Mechanisms.
+🌍 Always up to date with the latest research papers in AI & Computer Vision.
+💡 Open to collaborations on ML projects, especially Computer Vision tasks.
 
 
-Machine Learning artificial intelligence Enthusiast Having Expertise in Deep Learning, Fine-tuning, Transfer Learning, Upto date about newly published papers in Computer Vision and machine learning, strong knowledge of model architect Engineering, deeply studied attention and transformers in vision.
+🚀 Tech Stack
+🔹 Languages: Python, TensorFlow, PyTorch, OpenCV
+🔹 AI & ML: Deep Learning, Transformers, NLP, Image Processing
+🔹 Tools: Jupyter, Google Colab, Hugging Face, Weights & Biases
+🔹 Research Areas: Vision Transformers, Model Optimization, OCR
 
-<!---
-Ibrah-N/Ibrah-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+📫 Connect With Me
+📩 Email: ibrahimibraheducation@gmail.com
+💬 WhatsApp: Available for discussions & collaborations
+🌐 GitHub: Ibrah-N
+
+✨ GitHub Stats
+<div align="center">
+
+
+</div>
+🚀 Let’s build the future of AI together!
+
